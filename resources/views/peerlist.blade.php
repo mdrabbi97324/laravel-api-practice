@@ -484,7 +484,11 @@
                     </div>
                 </div>
             </div>
-
+            <div class="h-14 bg-white border-t text-end p-3">
+                <button>
+                <span class="inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-xs font-medium bg-green-700 text-white dark:bg-white dark:text-neutral-800">Save</span>
+                </button>
+            </div>
 
 
 
