@@ -32,7 +32,7 @@
             <!-- End Sidebar -->
             <!-- <div id="docs-sidebar" class="fixed top-0 bottom-0 h-screen bg-white font-medium p-6"> -->
             <div id="docs-sidebar" class=" h-screen font-medium p-6 hs-overlay [--auto-close:md] hs-overlay-open:translate-x-0 -translate-x-full transition-all duration-300 transform hidden fixed top-0  bottom-0 z-[60] w-64 bg-white  pt-7 pb-10 overflow-y-auto lg:block lg:translate-x-0 lg:end-auto lg:bottom-0 [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-track]:bg-gray-100 [&::-webkit-scrollbar-thumb]:bg-gray-300 dark:[&::-webkit-scrollbar-track]:bg-neutral-700 dark:[&::-webkit-scrollbar-thumb]:bg-neutral-500 dark:bg-neutral-800 dark:border-neutral-700">
-                <h1 class="flex-none text-xl font-semibold dark:text-white pl-2" href="#" aria-label="Brand">Brand</h1>
+                <img alt="Peerlist" loading="lazy" width="124" height="32" src="https://dqy38fnwh4fqs.cloudfront.net/website/peerlist-logo-full.svg">
                 <nav class="hs-accordion-group max-w-xs flex flex-col flex-wrap text-lg mt-10" data-hs-accordion-always-open>
                     <ul class="space-y-1.5">
                         <li>
@@ -41,7 +41,7 @@
                                     <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
                                     <polyline points="9 22 9 12 15 12 15 22" />
                                 </svg>
-                                Scroll
+                               Scrolls
                             </a>
                         </li>
                         <li><a class="flex items-center gap-x-3.5 py-2 px-2.5  text-gray-700 rounded-lg hover:bg-gray-100 dark:hover:bg-neutral-700 dark:text-neutral-400 dark:hover:text-neutral-300" href="#">
